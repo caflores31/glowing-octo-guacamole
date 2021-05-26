@@ -3,14 +3,15 @@ import Nav from './components/Nav';
 import About from './components/About';
 import Gallery from './components/Gallery';
 import ContactForm from './components/Contact';
+import Resume from './components/Resume';
 
 function App() {
   const [categories] = useState([
     {
-      name: 'commercial',
-      description: 'Photos of grocery stores, food trucks, and other commercial projects',
+      name: 'My Portfolio',
+      description: 'A page to be able to showcase previous projects and possible collaborations with other developers.',
     },
-    { name: 'portraits', description: 'Portraits of people in my life' },
+    { name: 'resume', description: 'provides a summary of your education, work history, credentials, and other accomplishments and skills' },
     { name: 'food', description: 'Delicious delicacies' },
     { name: 'landscape', description: 'Fields, farmhouses, waterfalls, and the beauty of nature' },
   ]);

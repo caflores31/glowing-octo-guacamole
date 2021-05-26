@@ -78,17 +78,17 @@ const PhotoList = ({ category }) => {
     },
     {
       name: 'Green river',
-      category: 'landscape',
+      category: 'test',
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
     },
     {
       name: 'Docks',
-      category: 'landscape',
+      category: 'test',
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
     },
     {
       name: 'Panoramic village by sea',
-      category: 'landscape',
+      category: 'test',
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
     },
     {
