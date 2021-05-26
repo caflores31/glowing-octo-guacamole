@@ -1,0 +1,34 @@
+{
+  "name": "cherrie",
+  "version": "1.0.0",
+  "description": "React Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caflores31/glowing-octo-guacamole.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caflores31/glowing-octo-guacamole/issues"
+  },
+  "homepage": "https://github.com/caflores31/glowing-octo-guacamole#readme",
+  "dependencies": {
+    "@testing-library/jest-dom": "github:testing-library/jest-dom",
+    "@testing-library/user-event": "github:testing-library/user-event",
+    "animate.css": "^4.1.1",
+    "gh-pages": "^3.2.0",
+    "react": "^17.0.2",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-responsive-carousel": "^3.2.18",
+    "react-router-dom": "^5.2.0",
+    "react-router-hash-link": "^2.4.3",
+    "react-scripts": "^4.0.3",
+    "react-scrollable-anchor": "^0.6.1"
+  }
+}
